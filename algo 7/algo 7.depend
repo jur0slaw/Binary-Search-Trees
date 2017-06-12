@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485722959 source:c:\users\administrator\documents\programy\algo 7\algo 7\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+

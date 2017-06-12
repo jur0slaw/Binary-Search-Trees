@@ -1,0 +1,510 @@
+Dla rozmiaru: 25000
+
+Proba #1
+
+Liczba wywolan insert: 19
+Liczba wywolan search: 13
+Liczba wywolan delete: 26
+Proba #2
+
+Liczba wywolan insert: 13
+Liczba wywolan search: 12
+Liczba wywolan delete: 24
+Proba #3
+
+Liczba wywolan insert: 18
+Liczba wywolan search: 24
+Liczba wywolan delete: 48
+Proba #4
+
+Liczba wywolan insert: 14
+Liczba wywolan search: 11
+Liczba wywolan delete: 23
+Proba #5
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 21
+Liczba wywolan delete: 43
+Proba #6
+
+Liczba wywolan insert: 17
+Liczba wywolan search: 16
+Liczba wywolan delete: 33
+Proba #7
+
+Liczba wywolan insert: 26
+Liczba wywolan search: 21
+Liczba wywolan delete: 44
+Proba #8
+
+Liczba wywolan insert: 18
+Liczba wywolan search: 16
+Liczba wywolan delete: 32
+Proba #9
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 18
+Liczba wywolan delete: 37
+Proba #10
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 19
+Liczba wywolan delete: 38
+Proba #11
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 15
+Liczba wywolan delete: 30
+Proba #12
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 14
+Liczba wywolan delete: 29
+Proba #13
+
+Liczba wywolan insert: 19
+Liczba wywolan search: 15
+Liczba wywolan delete: 34
+Proba #14
+
+Liczba wywolan insert: 16
+Liczba wywolan search: 14
+Liczba wywolan delete: 28
+Proba #15
+
+Liczba wywolan insert: 17
+Liczba wywolan search: 16
+Liczba wywolan delete: 32
+Proba #16
+
+Liczba wywolan insert: 28
+Liczba wywolan search: 26
+Liczba wywolan delete: 55
+Proba #17
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 15
+Liczba wywolan delete: 30
+Proba #18
+
+Liczba wywolan insert: 19
+Liczba wywolan search: 11
+Liczba wywolan delete: 24
+Proba #19
+
+Liczba wywolan insert: 19
+Liczba wywolan search: 17
+Liczba wywolan delete: 34
+Proba #20
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 20
+Liczba wywolan delete: 40
+Dla rozmiaru: 75000
+
+Proba #1
+
+Liczba wywolan insert: 24
+Liczba wywolan search: 22
+Liczba wywolan delete: 44
+Proba #2
+
+Liczba wywolan insert: 27
+Liczba wywolan search: 25
+Liczba wywolan delete: 51
+Proba #3
+
+Liczba wywolan insert: 19
+Liczba wywolan search: 18
+Liczba wywolan delete: 37
+Proba #4
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 17
+Liczba wywolan delete: 34
+Proba #5
+
+Liczba wywolan insert: 25
+Liczba wywolan search: 21
+Liczba wywolan delete: 43
+Proba #6
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 15
+Liczba wywolan delete: 30
+Proba #7
+
+Liczba wywolan insert: 24
+Liczba wywolan search: 23
+Liczba wywolan delete: 47
+Proba #8
+
+Liczba wywolan insert: 16
+Liczba wywolan search: 14
+Liczba wywolan delete: 30
+Proba #9
+
+Liczba wywolan insert: 24
+Liczba wywolan search: 17
+Liczba wywolan delete: 39
+Proba #10
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 18
+Liczba wywolan delete: 37
+Proba #11
+
+Liczba wywolan insert: 16
+Liczba wywolan search: 15
+Liczba wywolan delete: 32
+Proba #12
+
+Liczba wywolan insert: 27
+Liczba wywolan search: 20
+Liczba wywolan delete: 42
+Proba #13
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 18
+Liczba wywolan delete: 39
+Proba #14
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 19
+Liczba wywolan delete: 40
+Proba #15
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 14
+Liczba wywolan delete: 28
+Proba #16
+
+Liczba wywolan insert: 19
+Liczba wywolan search: 14
+Liczba wywolan delete: 33
+Proba #17
+
+Liczba wywolan insert: 18
+Liczba wywolan search: 10
+Liczba wywolan delete: 21
+Proba #18
+
+Liczba wywolan insert: 28
+Liczba wywolan search: 24
+Liczba wywolan delete: 50
+Proba #19
+
+Liczba wywolan insert: 18
+Liczba wywolan search: 15
+Liczba wywolan delete: 33
+Proba #20
+
+Liczba wywolan insert: 13
+Liczba wywolan search: 11
+Liczba wywolan delete: 24
+Dla rozmiaru: 125000
+
+Proba #1
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 12
+Liczba wywolan delete: 26
+Proba #2
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 15
+Liczba wywolan delete: 34
+Proba #3
+
+Liczba wywolan insert: 32
+Liczba wywolan search: 23
+Liczba wywolan delete: 50
+Proba #4
+
+Liczba wywolan insert: 23
+Liczba wywolan search: 16
+Liczba wywolan delete: 36
+Proba #5
+
+Liczba wywolan insert: 18
+Liczba wywolan search: 20
+Liczba wywolan delete: 44
+Proba #6
+
+Liczba wywolan insert: 28
+Liczba wywolan search: 21
+Liczba wywolan delete: 48
+Proba #7
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 18
+Liczba wywolan delete: 37
+Proba #8
+
+Liczba wywolan insert: 15
+Liczba wywolan search: 12
+Liczba wywolan delete: 28
+Proba #9
+
+Liczba wywolan insert: 17
+Liczba wywolan search: 14
+Liczba wywolan delete: 28
+Proba #10
+
+Liczba wywolan insert: 31
+Liczba wywolan search: 21
+Liczba wywolan delete: 47
+Proba #11
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 23
+Liczba wywolan delete: 46
+Proba #12
+
+Liczba wywolan insert: 33
+Liczba wywolan search: 25
+Liczba wywolan delete: 57
+Proba #13
+
+Liczba wywolan insert: 28
+Liczba wywolan search: 23
+Liczba wywolan delete: 49
+Proba #14
+
+Liczba wywolan insert: 18
+Liczba wywolan search: 16
+Liczba wywolan delete: 35
+Proba #15
+
+Liczba wywolan insert: 22
+Liczba wywolan search: 18
+Liczba wywolan delete: 41
+Proba #16
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 15
+Liczba wywolan delete: 33
+Proba #17
+
+Liczba wywolan insert: 15
+Liczba wywolan search: 15
+Liczba wywolan delete: 30
+Proba #18
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 19
+Liczba wywolan delete: 40
+Proba #19
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 14
+Liczba wywolan delete: 32
+Proba #20
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 17
+Liczba wywolan delete: 40
+Dla rozmiaru: 250000
+
+Proba #1
+
+Liczba wywolan insert: 21
+Liczba wywolan search: 16
+Liczba wywolan delete: 36
+Proba #2
+
+Liczba wywolan insert: 31
+Liczba wywolan search: 18
+Liczba wywolan delete: 38
+Proba #3
+
+Liczba wywolan insert: 25
+Liczba wywolan search: 22
+Liczba wywolan delete: 50
+Proba #4
+
+Liczba wywolan insert: 36
+Liczba wywolan search: 23
+Liczba wywolan delete: 54
+Proba #5
+
+Liczba wywolan insert: 32
+Liczba wywolan search: 24
+Liczba wywolan delete: 55
+Proba #6
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 18
+Liczba wywolan delete: 46
+Proba #7
+
+Liczba wywolan insert: 28
+Liczba wywolan search: 16
+Liczba wywolan delete: 43
+Proba #8
+
+Liczba wywolan insert: 25
+Liczba wywolan search: 14
+Liczba wywolan delete: 37
+Proba #9
+
+Liczba wywolan insert: 28
+Liczba wywolan search: 16
+Liczba wywolan delete: 40
+Proba #10
+
+Liczba wywolan insert: 31
+Liczba wywolan search: 20
+Liczba wywolan delete: 50
+Proba #11
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 11
+Liczba wywolan delete: 25
+Proba #12
+
+Liczba wywolan insert: 30
+Liczba wywolan search: 16
+Liczba wywolan delete: 44
+Proba #13
+
+Liczba wywolan insert: 17
+Liczba wywolan search: 13
+Liczba wywolan delete: 31
+Proba #14
+
+Liczba wywolan insert: 23
+Liczba wywolan search: 10
+Liczba wywolan delete: 25
+Proba #15
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 23
+Liczba wywolan delete: 54
+Proba #16
+
+Liczba wywolan insert: 23
+Liczba wywolan search: 15
+Liczba wywolan delete: 36
+Proba #17
+
+Liczba wywolan insert: 25
+Liczba wywolan search: 17
+Liczba wywolan delete: 38
+Proba #18
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 25
+Liczba wywolan delete: 61
+Proba #19
+
+Liczba wywolan insert: 31
+Liczba wywolan search: 9
+Liczba wywolan delete: 26
+Proba #20
+
+Liczba wywolan insert: 20
+Liczba wywolan search: 11
+Liczba wywolan delete: 30
+Dla rozmiaru: 500000
+
+Proba #1
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 18
+Liczba wywolan delete: 50
+Proba #2
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 21
+Liczba wywolan delete: 58
+Proba #3
+
+Liczba wywolan insert: 32
+Liczba wywolan search: 17
+Liczba wywolan delete: 52
+Proba #4
+
+Liczba wywolan insert: 35
+Liczba wywolan search: 19
+Liczba wywolan delete: 52
+Proba #5
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 22
+Liczba wywolan delete: 62
+Proba #6
+
+Liczba wywolan insert: 30
+Liczba wywolan search: 12
+Liczba wywolan delete: 37
+Proba #7
+
+Liczba wywolan insert: 34
+Liczba wywolan search: 18
+Liczba wywolan delete: 54
+Proba #8
+
+Liczba wywolan insert: 43
+Liczba wywolan search: 17
+Liczba wywolan delete: 48
+Proba #9
+
+Liczba wywolan insert: 39
+Liczba wywolan search: 21
+Liczba wywolan delete: 58
+Proba #10
+
+Liczba wywolan insert: 50
+Liczba wywolan search: 31
+Liczba wywolan delete: 81
+Proba #11
+
+Liczba wywolan insert: 26
+Liczba wywolan search: 9
+Liczba wywolan delete: 35
+Proba #12
+
+Liczba wywolan insert: 29
+Liczba wywolan search: 13
+Liczba wywolan delete: 37
+Proba #13
+
+Liczba wywolan insert: 39
+Liczba wywolan search: 9
+Liczba wywolan delete: 29
+Proba #14
+
+Liczba wywolan insert: 31
+Liczba wywolan search: 18
+Liczba wywolan delete: 45
+Proba #15
+
+Liczba wywolan insert: 29
+Liczba wywolan search: 13
+Liczba wywolan delete: 33
+Proba #16
+
+Liczba wywolan insert: 30
+Liczba wywolan search: 21
+Liczba wywolan delete: 53
+Proba #17
+
+Liczba wywolan insert: 27
+Liczba wywolan search: 13
+Liczba wywolan delete: 35
+Proba #18
+
+Liczba wywolan insert: 30
+Liczba wywolan search: 13
+Liczba wywolan delete: 41
+Proba #19
+
+Liczba wywolan insert: 32
+Liczba wywolan search: 20
+Liczba wywolan delete: 51
+Proba #20
+
+Liczba wywolan insert: 31
+Liczba wywolan search: 14
+Liczba wywolan delete: 41

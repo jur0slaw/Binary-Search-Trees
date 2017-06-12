@@ -1,0 +1,510 @@
+Dla rozmiaru: 2500
+
+Proba #1
+
+Liczba wywolan insert: 172
+Liczba wywolan search: 171
+Liczba wywolan delete: 2672
+Proba #2
+
+Liczba wywolan insert: 1509
+Liczba wywolan search: 1508
+Liczba wywolan delete: 4009
+Proba #3
+
+Liczba wywolan insert: 1669
+Liczba wywolan search: 1668
+Liczba wywolan delete: 4169
+Proba #4
+
+Liczba wywolan insert: 1315
+Liczba wywolan search: 1314
+Liczba wywolan delete: 3815
+Proba #5
+
+Liczba wywolan insert: 1971
+Liczba wywolan search: 1970
+Liczba wywolan delete: 4471
+Proba #6
+
+Liczba wywolan insert: 1233
+Liczba wywolan search: 1232
+Liczba wywolan delete: 3733
+Proba #7
+
+Liczba wywolan insert: 158
+Liczba wywolan search: 157
+Liczba wywolan delete: 2658
+Proba #8
+
+Liczba wywolan insert: 1441
+Liczba wywolan search: 1440
+Liczba wywolan delete: 3941
+Proba #9
+
+Liczba wywolan insert: 792
+Liczba wywolan search: 791
+Liczba wywolan delete: 3292
+Proba #10
+
+Liczba wywolan insert: 2073
+Liczba wywolan search: 2072
+Liczba wywolan delete: 4573
+Proba #11
+
+Liczba wywolan insert: 775
+Liczba wywolan search: 774
+Liczba wywolan delete: 3275
+Proba #12
+
+Liczba wywolan insert: 211
+Liczba wywolan search: 210
+Liczba wywolan delete: 2711
+Proba #13
+
+Liczba wywolan insert: 244
+Liczba wywolan search: 243
+Liczba wywolan delete: 2744
+Proba #14
+
+Liczba wywolan insert: 1292
+Liczba wywolan search: 1291
+Liczba wywolan delete: 3792
+Proba #15
+
+Liczba wywolan insert: 1910
+Liczba wywolan search: 1909
+Liczba wywolan delete: 4410
+Proba #16
+
+Liczba wywolan insert: 925
+Liczba wywolan search: 924
+Liczba wywolan delete: 3425
+Proba #17
+
+Liczba wywolan insert: 756
+Liczba wywolan search: 755
+Liczba wywolan delete: 3256
+Proba #18
+
+Liczba wywolan insert: 1257
+Liczba wywolan search: 1256
+Liczba wywolan delete: 3757
+Proba #19
+
+Liczba wywolan insert: 1199
+Liczba wywolan search: 1198
+Liczba wywolan delete: 3699
+Proba #20
+
+Liczba wywolan insert: 845
+Liczba wywolan search: 844
+Liczba wywolan delete: 3345
+Dla rozmiaru: 5000
+
+Proba #1
+
+Liczba wywolan insert: 1593
+Liczba wywolan search: 1592
+Liczba wywolan delete: 6593
+Proba #2
+
+Liczba wywolan insert: 2279
+Liczba wywolan search: 2278
+Liczba wywolan delete: 7279
+Proba #3
+
+Liczba wywolan insert: 1378
+Liczba wywolan search: 1377
+Liczba wywolan delete: 6378
+Proba #4
+
+Liczba wywolan insert: 1074
+Liczba wywolan search: 1073
+Liczba wywolan delete: 6074
+Proba #5
+
+Liczba wywolan insert: 1236
+Liczba wywolan search: 1235
+Liczba wywolan delete: 6236
+Proba #6
+
+Liczba wywolan insert: 402
+Liczba wywolan search: 401
+Liczba wywolan delete: 5402
+Proba #7
+
+Liczba wywolan insert: 1835
+Liczba wywolan search: 1834
+Liczba wywolan delete: 6835
+Proba #8
+
+Liczba wywolan insert: 3364
+Liczba wywolan search: 3363
+Liczba wywolan delete: 8364
+Proba #9
+
+Liczba wywolan insert: 3309
+Liczba wywolan search: 3308
+Liczba wywolan delete: 8309
+Proba #10
+
+Liczba wywolan insert: 652
+Liczba wywolan search: 651
+Liczba wywolan delete: 5652
+Proba #11
+
+Liczba wywolan insert: 1407
+Liczba wywolan search: 1406
+Liczba wywolan delete: 6407
+Proba #12
+
+Liczba wywolan insert: 1320
+Liczba wywolan search: 1319
+Liczba wywolan delete: 6320
+Proba #13
+
+Liczba wywolan insert: 3741
+Liczba wywolan search: 3740
+Liczba wywolan delete: 8741
+Proba #14
+
+Liczba wywolan insert: 3334
+Liczba wywolan search: 3333
+Liczba wywolan delete: 8334
+Proba #15
+
+Liczba wywolan insert: 4563
+Liczba wywolan search: 4562
+Liczba wywolan delete: 9563
+Proba #16
+
+Liczba wywolan insert: 1727
+Liczba wywolan search: 1726
+Liczba wywolan delete: 6727
+Proba #17
+
+Liczba wywolan insert: 4750
+Liczba wywolan search: 4749
+Liczba wywolan delete: 9750
+Proba #18
+
+Liczba wywolan insert: 268
+Liczba wywolan search: 267
+Liczba wywolan delete: 5268
+Proba #19
+
+Liczba wywolan insert: 107
+Liczba wywolan search: 106
+Liczba wywolan delete: 5107
+Proba #20
+
+Liczba wywolan insert: 2214
+Liczba wywolan search: 2213
+Liczba wywolan delete: 7214
+Dla rozmiaru: 10000
+
+Proba #1
+
+Liczba wywolan insert: 6182
+Liczba wywolan search: 6181
+Liczba wywolan delete: 16182
+Proba #2
+
+Liczba wywolan insert: 1569
+Liczba wywolan search: 1568
+Liczba wywolan delete: 11569
+Proba #3
+
+Liczba wywolan insert: 1879
+Liczba wywolan search: 1878
+Liczba wywolan delete: 11879
+Proba #4
+
+Liczba wywolan insert: 6310
+Liczba wywolan search: 6309
+Liczba wywolan delete: 16310
+Proba #5
+
+Liczba wywolan insert: 7326
+Liczba wywolan search: 7325
+Liczba wywolan delete: 17326
+Proba #6
+
+Liczba wywolan insert: 5355
+Liczba wywolan search: 5354
+Liczba wywolan delete: 15355
+Proba #7
+
+Liczba wywolan insert: 1477
+Liczba wywolan search: 1476
+Liczba wywolan delete: 11477
+Proba #8
+
+Liczba wywolan insert: 4801
+Liczba wywolan search: 4800
+Liczba wywolan delete: 14801
+Proba #9
+
+Liczba wywolan insert: 2877
+Liczba wywolan search: 2876
+Liczba wywolan delete: 12877
+Proba #10
+
+Liczba wywolan insert: 481
+Liczba wywolan search: 480
+Liczba wywolan delete: 10481
+Proba #11
+
+Liczba wywolan insert: 8340
+Liczba wywolan search: 8339
+Liczba wywolan delete: 18340
+Proba #12
+
+Liczba wywolan insert: 7547
+Liczba wywolan search: 7546
+Liczba wywolan delete: 17547
+Proba #13
+
+Liczba wywolan insert: 5487
+Liczba wywolan search: 5486
+Liczba wywolan delete: 15487
+Proba #14
+
+Liczba wywolan insert: 1187
+Liczba wywolan search: 1186
+Liczba wywolan delete: 11187
+Proba #15
+
+Liczba wywolan insert: 1901
+Liczba wywolan search: 1900
+Liczba wywolan delete: 11901
+Proba #16
+
+Liczba wywolan insert: 5333
+Liczba wywolan search: 5332
+Liczba wywolan delete: 15333
+Proba #17
+
+Liczba wywolan insert: 792
+Liczba wywolan search: 791
+Liczba wywolan delete: 10792
+Proba #18
+
+Liczba wywolan insert: 3101
+Liczba wywolan search: 3100
+Liczba wywolan delete: 13101
+Proba #19
+
+Liczba wywolan insert: 9556
+Liczba wywolan search: 9555
+Liczba wywolan delete: 19556
+Proba #20
+
+Liczba wywolan insert: 8818
+Liczba wywolan search: 8817
+Liczba wywolan delete: 18818
+Dla rozmiaru: 20000
+
+Proba #1
+
+Liczba wywolan insert: 10688
+Liczba wywolan search: 10687
+Liczba wywolan delete: 30688
+Proba #2
+
+Liczba wywolan insert: 4908
+Liczba wywolan search: 4907
+Liczba wywolan delete: 24908
+Proba #3
+
+Liczba wywolan insert: 12861
+Liczba wywolan search: 12860
+Liczba wywolan delete: 32861
+Proba #4
+
+Liczba wywolan insert: 3537
+Liczba wywolan search: 3536
+Liczba wywolan delete: 23537
+Proba #5
+
+Liczba wywolan insert: 1577
+Liczba wywolan search: 1576
+Liczba wywolan delete: 21577
+Proba #6
+
+Liczba wywolan insert: 12044
+Liczba wywolan search: 12043
+Liczba wywolan delete: 32044
+Proba #7
+
+Liczba wywolan insert: 18895
+Liczba wywolan search: 18894
+Liczba wywolan delete: 38895
+Proba #8
+
+Liczba wywolan insert: 7955
+Liczba wywolan search: 7954
+Liczba wywolan delete: 27955
+Proba #9
+
+Liczba wywolan insert: 5226
+Liczba wywolan search: 5225
+Liczba wywolan delete: 25226
+Proba #10
+
+Liczba wywolan insert: 1552
+Liczba wywolan search: 1551
+Liczba wywolan delete: 21552
+Proba #11
+
+Liczba wywolan insert: 12741
+Liczba wywolan search: 12740
+Liczba wywolan delete: 32741
+Proba #12
+
+Liczba wywolan insert: 8461
+Liczba wywolan search: 8460
+Liczba wywolan delete: 28461
+Proba #13
+
+Liczba wywolan insert: 164
+Liczba wywolan search: 163
+Liczba wywolan delete: 20164
+Proba #14
+
+Liczba wywolan insert: 15118
+Liczba wywolan search: 15117
+Liczba wywolan delete: 35118
+Proba #15
+
+Liczba wywolan insert: 7759
+Liczba wywolan search: 7758
+Liczba wywolan delete: 27759
+Proba #16
+
+Liczba wywolan insert: 1802
+Liczba wywolan search: 1801
+Liczba wywolan delete: 21802
+Proba #17
+
+Liczba wywolan insert: 9272
+Liczba wywolan search: 9271
+Liczba wywolan delete: 29272
+Proba #18
+
+Liczba wywolan insert: 10955
+Liczba wywolan search: 10954
+Liczba wywolan delete: 30955
+Proba #19
+
+Liczba wywolan insert: 13489
+Liczba wywolan search: 13488
+Liczba wywolan delete: 33489
+Proba #20
+
+Liczba wywolan insert: 5558
+Liczba wywolan search: 5557
+Liczba wywolan delete: 25558
+Dla rozmiaru: 30000
+
+Proba #1
+
+Liczba wywolan insert: 12700
+Liczba wywolan search: 12699
+Liczba wywolan delete: 42700
+Proba #2
+
+Liczba wywolan insert: 23731
+Liczba wywolan search: 23730
+Liczba wywolan delete: 53731
+Proba #3
+
+Liczba wywolan insert: 4171
+Liczba wywolan search: 4170
+Liczba wywolan delete: 34171
+Proba #4
+
+Liczba wywolan insert: 1447
+Liczba wywolan search: 1446
+Liczba wywolan delete: 31447
+Proba #5
+
+Liczba wywolan insert: 2339
+Liczba wywolan search: 2338
+Liczba wywolan delete: 32339
+Proba #6
+
+Liczba wywolan insert: 27280
+Liczba wywolan search: 27279
+Liczba wywolan delete: 57280
+Proba #7
+
+Liczba wywolan insert: 28210
+Liczba wywolan search: 28209
+Liczba wywolan delete: 58210
+Proba #8
+
+Liczba wywolan insert: 26159
+Liczba wywolan search: 26158
+Liczba wywolan delete: 56159
+Proba #9
+
+Liczba wywolan insert: 11546
+Liczba wywolan search: 11545
+Liczba wywolan delete: 41546
+Proba #10
+
+Liczba wywolan insert: 20966
+Liczba wywolan search: 20965
+Liczba wywolan delete: 50966
+Proba #11
+
+Liczba wywolan insert: 23224
+Liczba wywolan search: 23223
+Liczba wywolan delete: 53224
+Proba #12
+
+Liczba wywolan insert: 6527
+Liczba wywolan search: 6526
+Liczba wywolan delete: 36527
+Proba #13
+
+Liczba wywolan insert: 14152
+Liczba wywolan search: 14151
+Liczba wywolan delete: 44152
+Proba #14
+
+Liczba wywolan insert: 8908
+Liczba wywolan search: 8907
+Liczba wywolan delete: 38908
+Proba #15
+
+Liczba wywolan insert: 26284
+Liczba wywolan search: 26283
+Liczba wywolan delete: 56284
+Proba #16
+
+Liczba wywolan insert: 7059
+Liczba wywolan search: 7058
+Liczba wywolan delete: 37059
+Proba #17
+
+Liczba wywolan insert: 18999
+Liczba wywolan search: 18998
+Liczba wywolan delete: 48999
+Proba #18
+
+Liczba wywolan insert: 16767
+Liczba wywolan search: 16766
+Liczba wywolan delete: 46767
+Proba #19
+
+Liczba wywolan insert: 25418
+Liczba wywolan search: 25417
+Liczba wywolan delete: 55418
+Proba #20
+
+Liczba wywolan insert: 26983
+Liczba wywolan search: 26982
+Liczba wywolan delete: 56983
